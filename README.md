@@ -1,31 +1,23 @@
-<h1 align="center">Witty-Walter</h1>
+<div align="center">
+  <h1>Witty-Walter</h1>
 
-<p align="center">
-  <strong>Competitive Programmer</strong><br>
-  <strong>AI/ML & Computer Vision Enthusiast</strong><br>
-  <strong>Building Scalable Web & AI Systems</strong>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Competitive+Programmer;AI%2FML+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+%26+AI+Systems" alt="Typing SVG" />
 
-<p align="center">
+  <br><br>
+
   <a href="https://github.com/Witty-Walter">
-    <img src="https://img.shields.io/badge/GitHub-Witty--Walter-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/Witty_Walter_White/">
-    <img src="https://img.shields.io/badge/LeetCode-Witty_Walter_White-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
 
-<p align="center">
+  <br><br>
   <em>Focused on problem solving, backend systems, AI-driven applications, and end-to-end product building.</em>
-</p>
+</div>
+
 
 ---
-
-<h2 align="center"><code>$ whoami</code></h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Competitive+Programmer;AI%2FML+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+%26+AI+Systems" alt="Typing SVG" />
-</p>
 
 -  I’m currently building end-to-end software and AI projects.
 -  I’m currently improving my problem-solving and system-building skills.
@@ -34,22 +26,25 @@
 
 ---
 
-## ❯ ls -l ./skills
+### Technical Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+├── **languages/**<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
+├── **artificial_intelligence/**<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Sentence_Transformers-FF9D00?style=flat-square&logo=huggingface&logoColor=white" />
+
+├── **full_stack_architecture/**<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" />
+
+├── **document_processing/**<br>
+<img src="https://img.shields.io/badge/PaddleOCR-00A1E9?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/PyMuPDF-D22128?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/python--docx-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" /> <img src="https://img.shields.io/badge/langdetect-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+├── **infrastructure/**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+└── **competitive_programming/**<br>
+<img src="https://img.shields.io/badge/Data_Structures-2B2D31?style=flat-square" /> <img src="https://img.shields.io/badge/Algorithms-2B2D31?style=flat-square" /> <img src="https://img.shields.io/badge/Dynamic_Programming-2B2D31?style=flat-square" /> <img src="https://img.shields.io/badge/Graph_Theory-2B2D31?style=flat-square" /> <img src="https://img.shields.io/badge/Problem_Solving-2B2D31?style=flat-square" />
 ---
 
 ## Projects
