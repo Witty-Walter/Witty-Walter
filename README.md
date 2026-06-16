@@ -27,92 +27,85 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Competitive+Programmer;AI%2FML+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+%26+AI+Systems" alt="Typing SVG" />
 </p>
 
-### ❯ cat ./about_me.txt
-- 🔭 I’m currently building end-to-end software and AI projects.
-- 🌱 I’m currently improving my problem-solving and system-building skills.
-- 💬 Ask me about competitive programming, AI/ML, computer vision, backend systems, or Docker.
-- ⚡ Fun fact: I like building practical projects that solve real problems.
+-  I’m currently building end-to-end software and AI projects.
+-  I’m currently improving my problem-solving and system-building skills.
+-  Ask me about competitive programming, AI/ML, computer vision, backend systems, or Docker.
+-  Fun fact: I like building practical projects that solve real problems.
 
 ---
 
-### Technical Skills
+## ❯ ls -l ./skills
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Backend & APIs</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Databases & Cache</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>AI / ML & Computer Vision</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat&logo=google&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>DevOps & Tools</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### ❯ ./execute_projects.sh
+## Projects
 
-#### ⚡ [Vakya] | `React, TypeScript, Vite, Python, FastAPI, PostgreSQL, LangChain, LangGraph, Ollama, ChromaDB, Sentence-Transformers, PyMuPDF, python-docx, PaddleOCR, Tesseract OCR, spaCy, langdetect, Google OAuth, Docker`
-An AI-powered legal contract intelligence platform that extracts clauses, detects risks, supports negotiation, processes documents, and generates executive-style summaries.
+### Vakya : AI-Powered Contract Intelligence Platform
+**React, TypeScript, Vite, Python, FastAPI, PostgreSQL, LangChain, LangGraph, Ollama, ChromaDB, Sentence-Transformers, PyMuPDF, python-docx, PaddleOCR, Tesseract OCR, spaCy, langdetect, Google OAuth, Docker**
 
-#### ⚡ [Scholar-Judge] | `React, Next.js, Django/FastAPI, Celery, Redis, PostgreSQL, Docker, LLM Integration`
-A secure coding platform with a Docker-based judge and an AI mentorship layer that gives Socratic hints for failed submissions.
+- **Clause Intelligence:** Extracts, segments, and analyzes contract clauses for legal and business review.
+- **Risk Detection:** Flags risky, unclear, or non-standard terms inside contracts.
+- **Negotiation Support:** Suggests negotiation points and improvement areas.
+- **Document Processing:** Handles PDF/DOCX ingestion, OCR, text extraction, and structured analysis.
+- **Reporting:** Generates executive-style summaries and review outputs.
 
-#### ⚡ [AI vs Human Generated Image Detection] | `Python, PyTorch, OpenCV`
-An image classification project focused on detecting whether an image is AI-generated or human-generated using computer vision and machine learning.
+### Scholar-Judge : Secure Coding Platform with AI Mentorship
+**React, Next.js, Django/FastAPI, Celery, Redis, PostgreSQL, Docker, LLM Integration**
 
-#### ⚡ [Fact_lens] | `Python, Flask, Tesseract OCR`
-A Python-based fact analysis project focused on extracting useful information and structuring results for review and analysis.
+- **Secure Judge System:** Runs submissions in isolated Docker-based sandboxes.
+- **AI Hint Layer:** Gives Socratic hints instead of direct answers for failed submissions.
+- **Backend Architecture:** Uses queue-based execution and scalable background processing.
+- **Learning Focus:** Designed to improve coding skill, debugging, and problem solving.
+
+### AI vs Human Generated Image Detection
+**Python, PyTorch, OpenCV, NumPy, Pandas, Flask, CNN, ResNet18, Grad-CAM**
+
+- Built a deep learning-based image classification system to distinguish AI-generated images from authentic human-created images.
+- Trained and evaluated a ResNet18-based CNN model on a large-scale curated dataset.
+- Performed image preprocessing, augmentation, and feature extraction using OpenCV and NumPy.
+- Utilized PyTorch for model training, evaluation, and inference pipeline development.
+- Integrated Grad-CAM visualizations to explain model predictions and highlight decision-driving image regions.
+- Developed a Flask-based web interface for image upload, real-time inference, and prediction visualization.
+- Achieved high classification performance through dataset cleaning, balancing, and hyperparameter optimization.
 
 ---
 
-### ❯ htop --user-metrics
+## LeetCode Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Witty-Walter&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-<br>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Witty_Walter_White?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
 
-## Additional Information
+## Competitive Programming
 
-- **Competitive Programming:** [LeetCode Profile](https://leetcode.com/u/Witty_Walter_White/)
-- **Core Interests:** Full-Stack Development, AI/ML, Computer Vision, Backend Systems, and Dockerized Deployments.
+I actively practice competitive programming with a strong focus on problem solving, implementation quality, and algorithmic depth.
+
+- **LeetCode:** [Witty_Walter_White](https://leetcode.com/u/Witty_Walter_White/)
+- **GitHub:** [Witty-Walter](https://github.com/Witty-Walter)
+
+---
+
+## Core Interests
+
+- Competitive Programming
+- Full-Stack Development
+- AI / ML
+- Computer Vision
+- Backend Systems
+- Dockerized Deployments
