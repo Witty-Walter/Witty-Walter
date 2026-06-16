@@ -35,20 +35,67 @@
 
 ---
 
-### ❯ ls -l ./skills
+### Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="center">
+  <strong>Tech Stack</strong>
+</p>
+
+<p align="center">
+  <strong>Languages</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+
+<p align="center">
+  <strong>Backend & APIs</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Databases & Cache</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>AI / ML & Computer Vision</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat&logo=google&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>DevOps & Tools</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -61,36 +108,27 @@ An AI-powered legal contract intelligence platform that extracts clauses, detect
 #### ⚡ [Scholar-Judge] | `React, Next.js, Django/FastAPI, Celery, Redis, PostgreSQL, Docker, LLM Integration`
 A secure coding platform with a Docker-based judge and an AI mentorship layer that gives Socratic hints for failed submissions.
 
-#### ⚡ [AI vs Human Generated Image Detection] | `Python`
+#### ⚡ [AI vs Human Generated Image Detection] | `Python, PyTorch, OpenCV`
 An image classification project focused on detecting whether an image is AI-generated or human-generated using computer vision and machine learning.
 
-#### ⚡ [Fact_lens] | `Python`
+#### ⚡ [Fact_lens] | `Python, Flask, Tesseract OCR`
 A Python-based fact analysis project focused on extracting useful information and structuring results for review and analysis.
 
 ---
 
 ### ❯ htop --user-metrics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Witty-Walter&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+</div>
+<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Witty_Walter_White?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
 ---
 
-## Competitive Programming
+## Additional Information
 
-I actively practice competitive programming with a strong focus on problem solving, implementation quality, and algorithmic depth.
-
-- **LeetCode:** [Witty_Walter_White](https://leetcode.com/u/Witty_Walter_White/)
-- **GitHub:** [Witty-Walter](https://github.com/Witty-Walter)
-
----
-
-## Core Interests
-
-- Competitive Programming
-- Full-Stack Development
-- AI / ML
-- Computer Vision
-- Backend Systems
-- Dockerized Deployments
+- **Competitive Programming:** [LeetCode Profile](https://leetcode.com/u/Witty_Walter_White/)
+- **Core Interests:** Full-Stack Development, AI/ML, Computer Vision, Backend Systems, and Dockerized Deployments.
