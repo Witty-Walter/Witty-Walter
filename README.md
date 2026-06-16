@@ -38,10 +38,6 @@
 ### Technical Skills
 
 <p align="center">
-  <strong>Tech Stack</strong>
-</p>
-
-<p align="center">
   <strong>Languages</strong>
 </p>
 <p align="center">
@@ -56,7 +52,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
 </p>
 
 <p align="center">
